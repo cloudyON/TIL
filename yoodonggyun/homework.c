@@ -2,6 +2,7 @@
 #include <windows.h>
 int main(void)
 {
-	sys
-
+	system("chcp 65001");
+    printf("hello world!");
+    return 0;
 }
