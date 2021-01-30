@@ -9,10 +9,6 @@
 
 int main()
 {
-  int a = 12;
-  printf("hello world \n");
 
-  return 0;
-  
 
 }

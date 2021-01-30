@@ -19,7 +19,8 @@
 			],
 			"group": "test",
 			"detail": "compiler: C:\\MinGW\\bin\\gcc.exe",
-			"isDefault" : true
+			
 		}
+	
 	]
 }
